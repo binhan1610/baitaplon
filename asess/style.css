@@ -496,6 +496,17 @@ footer{
    }
    
     }
+@media screen and (max-width:600px){
+.ngocanh_img{
+display:grid;
+grid-template-columns: 100%;
+margin: auto;
+    }
+@media screen  and (min-width:600px) and (max-width:992px) {
+    .ngocanh_img{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        margin: auto;
 
 
 

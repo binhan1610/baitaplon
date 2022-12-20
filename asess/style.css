@@ -476,7 +476,7 @@ footer{
     margin-right:5%;
     margin-left:5%;
 }
-
+ /*==========================================================================================* Làm phần Responsie/
 @media only screen and ( max-width:860px){
     .ngocanhle-text8{
         display:block
@@ -496,6 +496,7 @@ footer{
    }
    
     }
+ /*==========================================================================================* Làm phần responsive/
 @media screen and (max-width:600px){
 .ngocanh_img{
 display:grid;
